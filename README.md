@@ -1,4 +1,10 @@
-# Loop-per-minute-
+# Loop-per-minute
+Is an idea that was spinning in my mind for quite a long.
+Now with the help of chatgpt i can deliver it for review and integration as an idea only.
+i hope the idea comes handy and help you address issues.
+The following text comes from chatgpt with my instructions.
+feel free to contact me on my email.
+
 
 Lightweight Loop-Rate Based Resilience & DDoS Mitigation Concept
 
